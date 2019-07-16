@@ -1,0 +1,7 @@
+C:\Users\Lisab\source\repos\Exquisite Corpse\Exquisite Corpse\bin\Debug\Exquisite Corpse.exe.config
+C:\Users\Lisab\source\repos\Exquisite Corpse\Exquisite Corpse\bin\Debug\Exquisite Corpse.exe
+C:\Users\Lisab\source\repos\Exquisite Corpse\Exquisite Corpse\bin\Debug\Exquisite Corpse.pdb
+C:\Users\Lisab\source\repos\Exquisite Corpse\Exquisite Corpse\obj\Debug\Exquisite Corpse.csprojAssemblyReference.cache
+C:\Users\Lisab\source\repos\Exquisite Corpse\Exquisite Corpse\obj\Debug\Exquisite Corpse.csproj.CoreCompileInputs.cache
+C:\Users\Lisab\source\repos\Exquisite Corpse\Exquisite Corpse\obj\Debug\Exquisite Corpse.exe
+C:\Users\Lisab\source\repos\Exquisite Corpse\Exquisite Corpse\obj\Debug\Exquisite Corpse.pdb
